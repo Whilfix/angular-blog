@@ -1,0 +1,16 @@
+.container__menu-bar {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    
+}
+
+.container__menu-bar > ul > li{
+    border: solid 1px white;
+    margin-left: 5px;
+    list-style: none;
+}
+
+.container__menu-bar > ul {
+    display: flex;
+    flex-direction: row;
+}
